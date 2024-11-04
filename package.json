@@ -1,0 +1,20 @@
+{
+  "name": "my_course",
+  "version": "1.0.0",
+  "description": "Backend project Node Js and express js. ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "Node JS"
+  },
+  "keywords": [
+    "Express",
+    "JS"
+  ],
+  "author": "Jaloliddin Abdurahmonov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
